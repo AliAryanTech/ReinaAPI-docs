@@ -1,9 +1,6 @@
 ---
 title: Reina API
 
-language_tabs: # must be one of https://git.io/vQNgJ
-  - javascript
-
 includes:
   - errors
   - mywaifulist
